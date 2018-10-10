@@ -92,6 +92,6 @@
   <script type="text/javascript" src="/js/src/clipboard.min.js"></script>  
   <script type="text/javascript" src="/js/src/clipboard-use.js"></script>
   <!-- 页面点击效果 -->
-  <script type="text/javascript" src="/js/src/clickfont.js"></script>
+  <script type="text/javascript" src="/js/src/clicklove.js"></script>
 </body>
 </html>
