@@ -38,7 +38,7 @@ tags: [Python, MySQL, JSON]
 
 这个爬虫脚本比较易读，而且碍于文章篇幅问题，所以，我这里就不贴源码了，直接放到交友网站GitHub上了，有兴趣的可以前往查看。
 
-源码以及数据地址：[https://github.com/gxcuizy/Python/tree/master/area][code_url]
+源码以及数据地址：[https://github.com/gxcuizy/Python/tree/master/%E7%9C%81%E5%B8%82%E5%8C%BA%E4%B8%89%E7%BA%A7%E5%9C%B0%E5%9D%80%E5%BA%93][code_url]
 
 [page_img_url]: https://images.unsplash.com/photo-1526379095098-d400fd0bf935?ixlib=rb-0.3.5&s=1cca0d0544f25ab7c6e171d80692ed62&auto=format&fit=crop&w=1189&q=80
 [stats_url]: http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/
@@ -46,4 +46,4 @@ tags: [Python, MySQL, JSON]
 [requests_url]: http://docs.python-requests.org/zh_CN/latest/user/quickstart.html
 [bs4_url]: https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.zh.html
 [json_url]: https://docs.python.org/3.6/library/json.html
-[code_url]: https://github.com/gxcuizy/Python/tree/master/area
+[code_url]: https://github.com/gxcuizy/Python/tree/master/%E7%9C%81%E5%B8%82%E5%8C%BA%E4%B8%89%E7%BA%A7%E5%9C%B0%E5%9D%80%E5%BA%93
