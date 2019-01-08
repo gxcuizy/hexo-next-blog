@@ -391,7 +391,7 @@ valine:
   verify: false # Verification code
   placeholder: 请输入您的留言 # comment box placeholder
   avatar: wavatar # gravatar style
-  guest_info: nick,mail # custom comment header （nick,mail,link）
+  guest_info: nick,mail,link # custom comment header （nick,mail,link）
   pageSize: 10 # pagination size
 
 
@@ -820,5 +820,5 @@ images: images
 version: 5.1.4
 
 duoshuo:
-  enable: true
+  enable: false
   shortname: your-duoshuo-shortname
