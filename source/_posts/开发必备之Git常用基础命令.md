@@ -44,9 +44,9 @@ $ git config --global credential.helper store
 
 \# 拉取远程仓库的代码到本地工作区，一说到要拉取代码，很多人都会想到，git pull，但是我个人非常不喜欢这个命令，使用git fetch也可以，我如下两条命令拉取代码
 
-$ git rempote update
+$ git remote update
 
-$git rebase origin:[branch-name]
+$git rebase origin/[branch-name]
 
 \# 拉取代码，肯定会遇到有冲突的情况，这个时候，该怎么办呢？不要慌，有冲突就解决嘛，解决我就不说了，我就说，解决冲突代码后的操作，本地代码冲突解决完毕后，执行以下命令即可，即提交解决冲突文件到工作区，继续rebase
 
